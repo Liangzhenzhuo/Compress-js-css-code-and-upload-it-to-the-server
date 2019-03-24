@@ -55,3 +55,4 @@ def upload_file(host, port, usr, psw, local_path, remote_path):
 if __name__ == '__main__':
     upload_file(host='192.168.100.43', port=22, usr='root', psw='password',
                 local_path=r'C:\test', remote_path='/home/test')
+
