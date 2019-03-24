@@ -10,3 +10,5 @@ pip install paramiko
 pip install cssmin
 pip install jsmin
 ```
+
+个人博客：[https://blog.tryfang.cn/](https://blog.tryfang.cn/)
